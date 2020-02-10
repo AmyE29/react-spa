@@ -1,0 +1,11 @@
+{
+    "file-name" : "shoes",
+    "list" : [
+        {"name": "Green Sandals", "id":1 },
+        {"name": "Black Booties", "id":2 },
+        {"name": "Black Sneakers", "id":3 },
+        {"name": "Turqouise Fluvogs", "id":4 },
+        {"name": "Gold Hightops", "id":5 },
+        {"name": "Tan Sandal-Booties", "id":6 }
+    ]
+}
